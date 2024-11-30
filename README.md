@@ -1,7 +1,5 @@
-# online-learning-platform
-An online learning platform for students and instructors.
 # Online Learning Platform
-
+An online learning platform for students and instructors.
 ## Overview
 The **Online Learning Platform** is a web application designed to provide an interactive and scalable environment for students and instructors. It features course management, interactive lessons, quizzes, and progress tracking, enabling a seamless learning experience.
 
